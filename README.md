@@ -1,6 +1,7 @@
 # Internship Projects Repository
 
-**Submitted by:** Husnain Aslam 
+**Submitted by:** Husnain Aslam
+**DHC-ID:** DHC-438 
 **Internship:** AI/ML Engineering
 
 This repository contains four data science and AI-based internship projects that demonstrate practical skills in data analysis, machine learning, and large language model (LLM) applications.
